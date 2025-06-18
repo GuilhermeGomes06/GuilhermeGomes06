@@ -1,15 +1,10 @@
 ## 🥋 Guilherme Gomes
-
-Bem-vindo ao meu portfólio pessoal! Me me chamo Guilherme Gomes Lima, tenho 19 anos, sou natural de Roraima, mas moro em Marília-SP hoje em dia. Atualmente, estou cursando Desenvolvimento de Software Multiplataforma pela Fatec de Marília. 
-
-
----
-
 ### 🧑‍💻 Sobre mim
+Me me chamo Guilherme Gomes Lima, tenho 19 anos, sou natural de Roraima, mas moro em Marília-SP hoje em dia. Atualmente, estou cursando Desenvolvimento de Software Multiplataforma pela Fatec de Marília. 
 
-Sou um estudante e entusiasta da tecnologia, focado em desenvolvimento web. Tenho aprendido constantemente novas ferramentas, linguagens e boas práticas para crescer profissionalmente na área de programação.
 
 ---
+
 
 ### 🤖 Linguagens e Tecnologias 
 <img

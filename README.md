@@ -1,16 +1,49 @@
-## Hi there 👋
+## 🥋 Portfólio Pessoal - Guilherme
 
-<!--
-**GuilhermeGomes06/GuilhermeGomes06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu portfólio pessoal! Me chamo Guilherme Gomes Lima, tenho 19 anos, sou natural de Roraima, mas moro em Marília-SP hoje em dia. Atualmente, estou cursando Desenvolvimento de Software Multiplataforma pela Fatec de Marília. 
 
-Here are some ideas to get you started:
+🌐 Acesse o portfólio online: [https://guilhermelima.github.io](https://guilhermelima.github.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧑‍💻 Sobre mim
+
+Sou um estudante e entusiasta da tecnologia, focado em desenvolvimento web. Tenho aprendido constantemente novas ferramentas, linguagens e boas práticas para crescer profissionalmente na área de programação.
+
+---
+
+### 🤖 Linguagens e Tecnologias 
+<img
+align="left"
+alt="HTML"
+title="HTML"
+width="30px"
+style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+         
+  
+<img
+align="left"
+alt="CSS"
+title="CSS"
+width="30px"
+style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+        
+<img
+align="left"
+alt="CSS"
+title="CSS"
+width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+<br>
+<br>
+
+## 📫 Contato
+
+- 📧 Email: guigonegomes23@email.com  
+- 🧑‍💻 GitHub: [github.com/GuilhermeGomes06](https://github.com/GuilhermeGomes06)
+
+---
+
+

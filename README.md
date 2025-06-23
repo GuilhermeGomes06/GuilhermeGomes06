@@ -36,7 +36,8 @@ width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java
 ## 📫 Contato
 
 - 📧 Email: guigonegomes23@email.com  
-- 🧑‍💻 GitHub: [github.com/GuilhermeGomes06](https://github.com/GuilhermeGomes06)
+- 💻 GitHub: [github.com/GuilhermeGomes06](https://github.com/GuilhermeGomes06)
+- 🌐 Figma: https://www.figma.com/files/project/357442394
 
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeGomes06&show_icons=true&theme=dark)

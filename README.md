@@ -37,6 +37,9 @@ width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java
 
 - 📧 Email: guigonegomes23@email.com  
 - 💻 GitHub: [github.com/GuilhermeGomes06](https://github.com/GuilhermeGomes06)
+
+---
+## 🦾 Wireframe
 - 🌐 Figma: https://www.figma.com/files/project/357442394
 
 ---
